@@ -1,10 +1,10 @@
-## Welcome 👋🏻
+## Welcome to daeuniverse 👋🏻
 
 [dae](https://github.com/daeuniverse/dae) is an open-source, Linux high-performance transparent proxy solution, fueled by the revolutionary Kernel technology [eBPF](https://ebpf.io/).
 
 dae has also been recognized as an emerging application in the [eBPF project lanscape](https://ebpf.io/applications/). Learn more about eBPF at [ebpf.io](https://ebpf.io/what-is-ebpf/)
 
-### Dae
+### dae
 
 <img src="https://github.com/daeuniverse/dae/blob/main/logo.png" border="0" width="25%">
 
