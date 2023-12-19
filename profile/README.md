@@ -50,8 +50,4 @@ Join the [Daeuniverse International discussion channel on Telegram](https://t.me
 
 Join the [Daeuniverse CN discussion channel on Telegram](https://t.me/daeuniverse)
 
-You’ve already found us on Github!
-
-### Side projects
-
-- [@juicity/juicity](https://github.com/juicity/juicity)
+You’ve already found us on GitHub!
