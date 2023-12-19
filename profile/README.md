@@ -44,10 +44,4 @@ See [How it works](https://github.com/daeuniverse/dae/blob/main/docs/en/how-it-w
 
 ### Community
 
-Dae is an open-source project that anyone in the community can use, improve, and enjoy. Many people have already contributed to the Dae project and [you can too](https://github.com/daeuniverse/dae/blob/main/docs/en/development/contribute.md). We'd love you to join us! Here's a few ways to find out what's happening and get involved:
-
-Join the [Daeuniverse International discussion channel on Telegram](https://t.me/v2raya)
-
-Join the [Daeuniverse CN discussion channel on Telegram](https://t.me/daeuniverse)
-
-You’ve already found us on GitHub!
+Dae is an open-source project that anyone in the community can use, improve, and enjoy. Many people have already contributed to the Dae project and [you can too](https://github.com/daeuniverse/dae/blob/main/docs/en/development/contribute.md). We'd love you to join us!
