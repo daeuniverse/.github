@@ -10,8 +10,8 @@ dae has also been recognized as an emerging application in the [eBPF project lan
 
 <p align="left">
     <img src="https://github.com/daeuniverse/dae/actions/workflows/build.yml/badge.svg" alt="Build"/>
-    <img src="https://custom-icon-badges.herokuapp.com/github/license/daeuniverse/dae?logo=law&color=orange" alt="License"/>
-    <img src="https://custom-icon-badges.herokuapp.com/github/stars/daeuniverse/dae?logo=star&color=red" alt="star">
+    <img src="https://custom-icon-badges.herokuapp.com/github/license/daeuniverse/dae?logo=law&color=red" alt="License"/>
+    <img src="https://custom-icon-badges.herokuapp.com/github/stars/daeuniverse/dae?logo=star&logoColor=black" alt="star">
     <img src="https://custom-icon-badges.herokuapp.com/github/v/release/daeuniverse/dae?logo=rocket" alt="version">
     <img src="https://custom-icon-badges.herokuapp.com/github/issues-pr-closed/daeuniverse/dae?color=purple&logo=git-pull-request&logoColor=white"/>
     <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/daeuniverse/dae?logo=history&logoColor=white" alt="lastcommit"/>
