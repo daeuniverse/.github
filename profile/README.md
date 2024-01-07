@@ -4,8 +4,6 @@
 
 dae has also been recognized as an emerging application in the [eBPF project lanscape](https://ebpf.io/applications/). Learn more about eBPF at [ebpf.io](https://ebpf.io/what-is-ebpf/)
 
-### dae
-
 <img src="https://github.com/daeuniverse/dae/blob/main/logo.png" border="0" width="25%">
 
 <p align="left">
