@@ -29,7 +29,7 @@ To enhance traffic split performance as much as possible, dae employs the transp
 - [x] Support to split traffic with invert match rules.
 - [x] Support to automatically switch nodes according to policy. That is to say, support to automatically test independent TCP/UDP/IPv4/IPv6 latencies, and then use the best nodes for corresponding traffic according to user-defined policy.
 - [x] Support advanced DNS resolution process.
-- [x] Support full-cone NAT for shadowsocks, trojan(-go) and socks5 (no test).
+- [x] Support full-cone NAT.
 - [x] Support various trending proxy protocols, seen in [proxy-protocols.md](https://github.com/daeuniverse/dae/blob/main/docs/en/proxy-protocols.md).
 
 ## Getting Started
@@ -42,6 +42,6 @@ Please refer to [Quick Start Guide](https://github.com/daeuniverse/dae/blob/main
 
 See [How it works](https://github.com/daeuniverse/dae/blob/main/docs/en/how-it-works.md).
 
-### Community
+## Community
 
 Dae is an open-source project that anyone in the community can use, improve, and enjoy. Many people have already contributed to the Dae project and [you can too](https://github.com/daeuniverse/dae/blob/main/docs/en/development/contribute.md). We'd love you to join us!
